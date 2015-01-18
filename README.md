@@ -1,8 +1,8 @@
 # acme-colors
 
-acme colors for vim
+acme colors for vim.
 
-**NOTE**: gvim only ATM.
+supports 256 colors.
 
 ![screenshot](http://i.imgur.com/FJmTGqp.png)
 
