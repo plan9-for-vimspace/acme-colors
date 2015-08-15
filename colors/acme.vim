@@ -31,3 +31,5 @@ highlight! link Question Comment
 
 " vim
 hi link vimFunction Identifier
+
+let g:colors_name = "acme"
